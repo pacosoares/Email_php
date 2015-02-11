@@ -96,7 +96,8 @@ and open the template in the editor.
                                 ?>
             <center>
                         <form name="Cadastrar" method="post" action="">
-                          <h2>Envair email ao administrador</h2></label><br><br><br>                            
+                          <h2>Enviar email ao administrador</h2>
+                          </label><br><br><br>                            
                             <label for="titulo">Titulo</label>
                             <input type="text" name="titulo" style="margin-left:66px;">
                             <br>
